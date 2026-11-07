@@ -1,0 +1,5 @@
+# Build output (recreate with ./build.sh)
+build/
+.DS_Store
+*.p12
+*.pem
